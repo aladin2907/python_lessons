@@ -18,8 +18,9 @@ jobs:
       run: |pip install flake8 black isort
 
     - name: Run linter
-      run: |flake8
-    - name: Run 
-    
-    - name: Run formatters
+      run: |flake8 .
+
+    - name: Run formatter
       run: black8 --check . && isort --check .
+  
+
