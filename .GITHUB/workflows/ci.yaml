@@ -1,4 +1,4 @@
-name: Code_quality
+name: code-quality2
 
 on: [push]
 
