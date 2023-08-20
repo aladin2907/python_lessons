@@ -1,4 +1,4 @@
-name: code-quality2
+name: main
 
 on: [pull_request]
 
