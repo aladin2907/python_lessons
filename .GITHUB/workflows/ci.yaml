@@ -1,4 +1,6 @@
-code-qaulity2
+
+#code-quality
+
 name: code_quality2 #test
 
 on: [pull_request]
