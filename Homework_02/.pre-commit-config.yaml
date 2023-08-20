@@ -2,15 +2,15 @@ repos:
 - repo: local
   hooks:
     - id: black
-    nane: "Checking formatting"
-    entry: black --check .
-    language: system
-    types: [python]
-    pass_filenames: false
+      name: "Checking formatting"
+      entry: black --check .
+      language: system
+      types: [python]
+      pass_filenames: false
       
       
     - id: isort
-      nane: "Checking imports"
+      name: "Checking imports"
       entry: isort --check-only .
       language: system
       types: [python]
@@ -18,7 +18,7 @@ repos:
 
 
     - id: flake8
-      nane: "Running linter"
+      name: "Running linter"
       entry: black --check .
       language: system
       types: [python]
