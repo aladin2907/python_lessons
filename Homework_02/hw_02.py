@@ -16,3 +16,7 @@ foo()
 bar()
 goo()
 # jhgghtrrt gyyfttrrtr
+
+foo()
+bar()
+goo()
