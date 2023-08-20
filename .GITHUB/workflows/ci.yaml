@@ -1,4 +1,4 @@
-name: code-quality2
+name: code_quality2
 
 on: [pull_request]
 
