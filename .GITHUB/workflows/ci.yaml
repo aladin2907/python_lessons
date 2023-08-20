@@ -1,4 +1,4 @@
-#code-quality
+#code-quality add to github
 name: code_quality2 #test
 
 on: [pull_request]
