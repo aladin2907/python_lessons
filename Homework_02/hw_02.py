@@ -6,3 +6,8 @@ def foo():
 def bar():
     print("bar from hw_02")
     pass
+
+
+def goo():
+    print("Goo")
+    pass
