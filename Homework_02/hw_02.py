@@ -12,6 +12,7 @@ def goo():
     print("Goo")
     pass
 
+
 foo()
 bar()
 goo()
